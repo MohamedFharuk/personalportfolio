@@ -443,3 +443,9 @@ footer {
 footer p {
   text-align: center;
 }
+
+
+.wholebody{
+  justify-content: center;
+  flex-direction: column;
+}
